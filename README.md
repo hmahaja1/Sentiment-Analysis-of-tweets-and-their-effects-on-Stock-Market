@@ -24,10 +24,10 @@ To run the code without any errors, you need to have the following libraries ins
 
 File-Info
 ----------------------------------------------------------------------------------
-1) credentials.py 		- Contains Twitter API developer account credentials.
-2) tweets-filtered.py 		- Contains all the code to implement the twitter pipeline
-3) stocks.py          		- Contains the code and web crawler for scraping Stock market data
+1) tweets-filtered.py 		- Contains all the code to implement the twitter pipeline
+2) stocks.py          		- Contains the code and web crawler for scraping Stock market data
 
+Some additional word and PDF files as Project report and Data Source descriptions.
 
 
 Please contact us for any assistance or query!
